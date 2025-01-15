@@ -4,7 +4,7 @@ Line for second update of documentation branch
 LIne for third update of documentation branch
 
 ### Date created
-Include the date you created this project and README file.
+The Python Bikeshare Project and Readme File were originally created 01/07/2024.
 
 ### Project Title
 Replace the Project Title
