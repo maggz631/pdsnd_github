@@ -19,6 +19,9 @@ MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
 
 DAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']
 
+"""
+Defined a divider field so it can be quickly changed as needed
+"""
 divider = '-'*50
 
 def get_filters():
