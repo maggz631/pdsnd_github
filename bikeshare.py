@@ -12,6 +12,9 @@ import time
 import pandas as pd
 import numpy as np
 
+"""
+The City Data files must be in the correct folder to ensure retrieval
+"""
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -20,6 +23,9 @@ MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
 
 DAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']
 
+"""
+Defined a divider field so it can be quickly changed as needed
+"""
 divider = '-'*50
 
 def get_filters():
