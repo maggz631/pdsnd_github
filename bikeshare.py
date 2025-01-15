@@ -8,6 +8,9 @@ import time
 import pandas as pd
 import numpy as np
 
+"""
+The City Data files must be in the correct folder to ensure retrieval
+"""
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
