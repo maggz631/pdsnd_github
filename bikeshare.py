@@ -2,7 +2,11 @@
 # coding: utf-8
 
 # In[2]:
-
+"""
+This Bikeshare project will be an interactive experience with the user
+to obtain file information and return calculated values based on those
+inputs
+"""
 
 import time
 import pandas as pd
